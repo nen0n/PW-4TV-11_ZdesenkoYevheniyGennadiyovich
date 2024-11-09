@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Task_4</string>
+    <string name="title_home">Task 1</string>
+    <string name="title_dashboard">Task 2</string>
+    <string name="title_notifications">Task 3</string>
+
+    <string name="I">Сила струму КЗ Ік(кА)</string>
+    <string name="t">Фіктивний час вмикання струму КЗ tф(с)</string>
+    <string name="Sm">Розрахункове навантаження Sm(кВ * А)</string>
+    <string name="jEK">Значення економічної густини струму (А/мм^2) </string>
+
+    <string name="Usn">Введіть середньо номінальну напругу (кВ)</string>
+
+    <string name="nomPotEp">Середньодобова потужність МВт</string>
+    <string name="koefVik">Квадратичне відхилення</string>
+    <string name="koefReakPot">Вдосконалене квадратичне відхилення:</string>
+    <string name="price">Вартість електроенергії грн \ КВт * год:</string>
+
+</resources>
